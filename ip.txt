@@ -1,0 +1,4 @@
+www.yahoo.com 5 98.138.253.109 206.190.36.45 98.139.183.24
+www.google.com 0 64.233.169.99
+www.umd.edu 15 128.8.237.77
+www.abhinav.com 12 1.1.1.1
